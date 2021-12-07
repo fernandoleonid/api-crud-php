@@ -19,4 +19,3 @@
         $id         = array_shift($paths);
         routes($method, $resource, $id);
     }
-
